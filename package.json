@@ -1,6 +1,6 @@
 
   {
-      "name": "Aquarium Equipment List Builder",
+      "name": "aquarium-equipment-list-builder",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
